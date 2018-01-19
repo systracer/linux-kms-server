@@ -18,7 +18,7 @@ $ ./vlmcsd
 
 **Note: run `cmd` with administrator.**
 
-- Windows:
+- Windows: https://technet.microsoft.com/ru-ru/library/jj612867(v=ws.11).aspx
 ```powershell
 slmgr /upk
 slmgr /ipk XXXXX-XXXXX-XXXXX-XXXXX-XXXXX
@@ -26,7 +26,7 @@ slmgr /skms YOUR_IP_OR_HOSTNAME
 slmgr /ato
 ```
 
-- Office:
+- Office: http://technet.microsoft.com/ru-ru/library/ee624355(office.14).aspx
 ```powershell
 CD \Program Files\Microsoft Office\Office16 OR CD \Program Files (x86)\Microsoft Office\Office16
 cscript ospp.vbs /sethst:YOUR_IP_OR_HOSTNAME
@@ -35,17 +35,7 @@ cscript ospp.vbs /act
 cscript ospp.vbs /dstatusall
 ```
 
-
 - Source Code:
 You can download source code on [https://forums.mydigitallife.info/threads/50234-Emulated-KMS-Servers-on-non-Windows-platforms](https://forums.mydigitallife.info/threads/50234-Emulated-KMS-Servers-on-non-Windows-platforms)
 
-- Key:
-You can find key on [https://technet.microsoft.com/en-us/library/jj612867.aspx](https://technet.microsoft.com/en-us/library/jj612867.aspx)
-
----
-
 https://colascarlet.moe/Server/160/
-
-https://technet.microsoft.com/ru-ru/library/jj612867(v=ws.11).aspx
-
-http://technet.microsoft.com/ru-ru/library/ee624355(office.14).aspx
