@@ -41,3 +41,10 @@ You can download source code on [https://forums.mydigitallife.info/threads/50234
 
 - Key:
 You can find key on [https://technet.microsoft.com/en-us/library/jj612867.aspx](https://technet.microsoft.com/en-us/library/jj612867.aspx)
+
+---
+
+https://colascarlet.moe/Server/160/
+
+https://technet.microsoft.com/ru-ru/library/jj612867(v=ws.11).aspx
+http://technet.microsoft.com/ru-ru/library/ee624355(office.14).aspx
