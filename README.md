@@ -36,6 +36,7 @@ cscript ospp.vbs /dstatusall
 ```
 
 - Source Code:
-You can download source code on [https://forums.mydigitallife.info/threads/50234-Emulated-KMS-Servers-on-non-Windows-platforms](https://forums.mydigitallife.info/threads/50234-Emulated-KMS-Servers-on-non-Windows-platforms)
+You can download source code on [https://forums.mydigitallife.info/threads/50234-Emulated-KMS-Servers-on-non-Windows-platforms](MDL)
 
+- Man:
 https://colascarlet.moe/Server/160/
