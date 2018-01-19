@@ -27,7 +27,7 @@ slmgr /ato
 
 - Office: http://technet.microsoft.com/ru-ru/library/ee624355(office.14).aspx
 ```powershell
-cd C:\Program Files (x86)\Microsoft Office\Office14
+cd "C:\Program Files (x86)\Microsoft Office\Office14"
 cscript ospp.vbs /sethst:YOUR_IP_OR_HOSTNAME
 cscript ospp.vbs /inpkey:XXXXX-XXXXX-XXXXX-XXXXX-XXXXX
 cscript ospp.vbs /act
