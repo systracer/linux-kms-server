@@ -20,7 +20,6 @@ $ ./vlmcsd
 
 - Windows: https://technet.microsoft.com/ru-ru/library/jj612867(v=ws.11).aspx
 ```powershell
-slmgr /upk
 slmgr /ipk XXXXX-XXXXX-XXXXX-XXXXX-XXXXX
 slmgr /skms YOUR_IP_OR_HOSTNAME
 slmgr /ato
@@ -28,11 +27,10 @@ slmgr /ato
 
 - Office: http://technet.microsoft.com/ru-ru/library/ee624355(office.14).aspx
 ```powershell
-CD \Program Files\Microsoft Office\Office16 OR CD \Program Files (x86)\Microsoft Office\Office16
+cd C:\Program Files (x86)\Microsoft Office\Office14
 cscript ospp.vbs /sethst:YOUR_IP_OR_HOSTNAME
-cscript ospp.vbs /inpkey:xxxxx-xxxxx-xxxxx-xxxxx-xxxxx
+cscript ospp.vbs /inpkey:XXXXX-XXXXX-XXXXX-XXXXX-XXXXX
 cscript ospp.vbs /act
-cscript ospp.vbs /dstatusall
 ```
 
 - Source Code:
