@@ -1,20 +1,7 @@
 # linux-kms-server
 Linux kms server.
 
-## Run
-
-- With Docker:
-```
-$ docker run -it -d -p 1688:1688 kebe/vlmcsd
-```
-
-- With linux:
-```
-$ make
-$ ./vlmcsd
-```
-
-## Ciente usage:
+## Client usage:
 
 **Note: run `cmd` with administrator.**
 
