@@ -7,17 +7,17 @@ Linux kms server.
 
 - Windows: https://technet.microsoft.com/ru-ru/library/jj612867(v=ws.11).aspx
 ```powershell
-slmgr /ipk XXXXX-XXXXX-XXXXX-XXXXX-XXXXX
-slmgr /skms 
+slmgr /ipk W269N-WFGWX-YVC9B-4J6C9-T83GX
+slmgr /skms .ddns.info:8080
 slmgr /ato
 ```
 
-- Office: http://technet.microsoft.com/ru-ru/library/ee624355(office.14).aspx
+- Office: https://technet.microsoft.com/ru-ru/library/ee624355(office.14).aspx
 ```powershell
 cd "C:\Program Files (x86)\Microsoft Office\Office14"
-cscript ospp.vbs /inpkey:XXXXX-XXXXX-XXXXX-XXXXX-XXXXX
-cscript ospp.vbs /sethst:
-cscript ospp.vbs /setprt:
+cscript ospp.vbs /inpkey:V7QKV-4XVVR-XYV4D-F7DFM-8R6BM
+cscript ospp.vbs /sethst:.ddns.info
+cscript ospp.vbs /setprt:8080
 cscript ospp.vbs /act
 ```
 
