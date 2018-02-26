@@ -13,6 +13,7 @@ slmgr /ato
 ```
 
 - Office: https://technet.microsoft.com/ru-ru/library/ee624355(office.14).aspx
+http://winitpro.ru/index.php/2013/02/25/aktivaciya-ms-office-2013-vl
 ```powershell
 cd "C:\Program Files (x86)\Microsoft Office\Office14"
 cscript ospp.vbs /inpkey:V7QKV-4XVVR-XYV4D-F7DFM-8R6BM
