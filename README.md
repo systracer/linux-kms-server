@@ -27,3 +27,4 @@ You can download source code on [MDL](https://forums.mydigitallife.info/threads/
 
 - Man:
 https://colascarlet.moe/Server/160/
+https://archive.fo/48jvW
