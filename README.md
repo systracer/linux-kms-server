@@ -6,6 +6,7 @@ Linux kms server.
 **Note: run `cmd` with administrator.**
 
 - Windows: https://technet.microsoft.com/ru-ru/library/jj612867(v=ws.11).aspx
+https://docs.microsoft.com/ru-ru/windows-server/get-started/kmsclientkeys
 ```powershell
 slmgr /ipk W269N-WFGWX-YVC9B-4J6C9-T83GX
 slmgr /skms .ddns.info:8080
