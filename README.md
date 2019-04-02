@@ -22,6 +22,7 @@ cscript ospp.vbs /sethst:.ddns.info
 cscript ospp.vbs /setprt:8080
 cscript ospp.vbs /act
 ```
+KeyManagementServiceName
 
 - Source Code:
 You can download source code on [MDL](https://forums.mydigitallife.info/threads/50234-Emulated-KMS-Servers-on-non-Windows-platforms)
