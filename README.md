@@ -26,7 +26,6 @@ KeyManagementServiceName
 
 - Source Code:
 You can download source code on [MDL](https://forums.mydigitallife.info/threads/50234-Emulated-KMS-Servers-on-non-Windows-platforms)
-
 - Man:
 https://colascarlet.moe/Server/160/
 https://archive.fo/48jvW
