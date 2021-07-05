@@ -30,3 +30,7 @@ You can download source code on [MDL](https://forums.mydigitallife.info/threads/
 - Man:
 https://colascarlet.moe/Server/160/
 https://archive.fo/48jvW
+
+```
+2012 - D2N9P-3P6X9-2R39C-7RTCD-MDVJX
+2019 - N69G4-B89J2-4G8F4-WWYCC-J464C
